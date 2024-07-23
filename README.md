@@ -1,3 +1,6 @@
+
+![MasterHead](https://devtechnosys.ae/blog/wp-content/uploads/2022/06/Right-Software-for-Construction-Management.gif)
+
 # **EaseConstruct : A Collaboration Hub**
 Submitted for **SOFTWARE ENGINEERING**
 
